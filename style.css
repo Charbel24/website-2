@@ -184,3 +184,8 @@ input{
 li{
     font-size: 300%;
 }
+a:hover {
+    background-color: rgb(245, 245, 243);
+    border: white 2px;
+    color: black;
+  }
